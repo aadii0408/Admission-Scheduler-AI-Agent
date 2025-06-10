@@ -1,0 +1,6 @@
+No.,Name,e-mail,contact,appointment_type,topic_to_cover,selected-date,selected-time,remainder
+1,John sina,johns@gmail.com,9876543210,Campus Tour,On-campus Jobs,15-Jul-25,11:00 AM,Yes
+2,Shail shah,shail.shah@stevens.edu,8765432109,Applicaation Advising,Research Interests,22-Jul-25,2:30 PM,No
+3,Anjali Patel,anjali.p@example.com,7654321098,General Inquiriry,Credit Transfer,28-Jul-25,9:30 AM,Yes
+4,Vikram Singh,vikram.singh@example.com,6543210987,Visa Guidence,Visa Guidence,4-Aug-25,4:00 PM,Yes
+5,Aditya Champaneri,achampan1@stevens.edu,2019367032,Financial Aid cosultation,Financial Aid,12-Jun-25,3:00 PM,Yes
