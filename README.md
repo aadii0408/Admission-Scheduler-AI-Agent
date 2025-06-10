@@ -18,13 +18,29 @@ It will be the *first* * AI assistant for the university for end-to-end admissio
 
 ---
 
-## ✨ Key Features
+✨ Key Features
 
-1. **Natural Voice Conversation**: Powered by VAPI’s live call-control APIs, DuckOps understands intent and collects dynamic information in real time.
-2. **Context-Aware Workflow**: Captures student type (domestic/international), program level, application status, urgency, and topics to cover.
-3. **Warm Transfer**: Seamlessly hands off callers to human admissions specialists when deeper support is needed.
-4. **Multi-Channel Confirmation**: Automatically generates Zoom invites, emails, and SMS reminders with customizable timing.
-5. **Comprehensive Overview Module**: Provides on-the-spot summaries of deadlines, costs, scholarships, campus life, and next steps.
+1. Natural Voice Conversation: Powered by VAPI’s live call-control APIs, DuckOps understands intent and collects dynamic information in real time.
+
+2. Context-Aware Workflow: Captures student type (domestic/international), program level, application status, urgency, and topics to cover.
+
+3. Call Data Extraction: All information provided by callers (e.g., name, appointment details, preferences) is automatically logged and exported to a CSV file for reporting and analysis.
+
+4. Warm Transfer: Seamlessly hands off callers to human admissions specialists when deeper support is needed.
+
+5. Multi-Channel Confirmation: Automatically generates Zoom invites, emails, and SMS reminders with customizable timing.
+
+6. Comprehensive Overview Module: Provides on-the-spot summaries of deadlines, costs, scholarships, campus life, and next steps.
+
+7. Natural Voice Conversation: Powered by VAPI’s live call-control APIs, DuckOps understands intent and collects dynamic information in real time.
+
+8. Context-Aware Workflow: Captures student type (domestic/international), program level, application status, urgency, and topics to cover.
+
+9. Warm Transfer: Seamlessly hands off callers to human admissions specialists when deeper support is needed.
+
+10. Multi-Channel Confirmation: Automatically generates Zoom invites, emails, and SMS reminders with customizable timing.
+
+11. Comprehensive Overview Module: Provides on-the-spot summaries of deadlines, costs, scholarships, campus life, and next steps.
 
 ---
 
